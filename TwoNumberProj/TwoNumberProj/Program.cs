@@ -6,7 +6,7 @@ namespace TwoNumberProj
     {
         static void Main(string[] args)
         {
-            int c,b = 5, a = 7;
+            int c,b = 5, a = 8;
 
             c = a + b;
             Console.WriteLine(a+b);
