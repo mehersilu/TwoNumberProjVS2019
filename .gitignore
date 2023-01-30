@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/TwoNumberProj/TwoNumberProj/bin/Debug/netcoreapp3.1
+/TwoNumberProj/TwoNumberProj/obj
